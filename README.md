@@ -10,6 +10,7 @@ Install node/npm.
 ```
 git clone git@github.com:slickage/basicqr
 cd basicqr
+npm install
 node index.js
 ```
 ### API
